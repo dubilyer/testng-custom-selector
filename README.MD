@@ -1,0 +1,1 @@
+#Sample code for the <a href="https://medium.com/@edwarddubilyer/testng-life-without-xml-changing-test-discovery-logic-2d8c0c6183eb">blog</a> on medium.
